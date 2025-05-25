@@ -20,11 +20,9 @@ Matplotlib
 Kaggle Datasets
 
 ## Project Structure
-notebook_entrenamiento.ipynb: Model training and saving.
+plant_disease_classifier.ipynb: Model training and saving.
 
-modelo_entrenado.pth: Trained model weights (for inference).
-
-notebook_prediccion.ipynb: Classifies new images uploaded by the user.
+trained_model.pth: Trained model weights (for inference).
 
 README.md: This file.
 
